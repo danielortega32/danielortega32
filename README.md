@@ -13,12 +13,16 @@
 
 -  Busco ayuda con **Desafíos técnicos**
 
--  Todos mis proyectos están disponibles en [[@DanielOrtega](github.com/DanielOrtega) ](https://daniel-ortega.netlify.app/) -  Pregúntame sobre **Java, Desarrollo Backend y cualquier cosa relacionada con tecnología**
+-  Todos mis proyectos están disponibles en [(github.com/DanielOrtega) ](https://daniel-ortega.netlify.app/) -  Pregúntame sobre **Java, Desarrollo Backend y cualquier cosa relacionada con tecnología**
 
 - ⚡ Dato curioso **El café es mi combustible**
 
 
 ---
+
+
+
+
 
 
 <h2 align="center"><u><b>Conocimientos</b></u></h2>
